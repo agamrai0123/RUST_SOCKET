@@ -1,0 +1,1 @@
+C:\Users\Asus\Desktop\Web\ dev\rust_socket\socket\target\debug\socket.exe: C:\Users\Asus\Desktop\Web\ dev\rust_socket\socket\src\endian.rs C:\Users\Asus\Desktop\Web\ dev\rust_socket\socket\src\main.rs
